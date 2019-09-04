@@ -1,0 +1,21 @@
+{
+    "name": "ahyo/monexgrid",
+    "description": "grid view for monex",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ahyo haryanto",
+            "email": "ahyo.haryanto@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ahyo\\monexgrid\\": ""
+        }
+    }
+}
